@@ -1,4 +1,4 @@
-text1.md
+texts/text1.md
 figures/figure1
-ukul7ssrt5o.md
-text2.md
+texts/text2.md
+texts/text3.md
