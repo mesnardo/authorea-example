@@ -1,1 +1,1 @@
-This is a Markdown cell (Olivier).
+This is a Markdown cell.
