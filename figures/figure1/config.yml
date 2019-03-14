@@ -8,7 +8,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/figure1/figure1.png
+  - path: notebooks/figures/figure1.png
     type: static
     from:
     - 1
